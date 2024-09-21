@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E87D200-9849-42C3-B847-F03D036CDB3A}|QuanLiNhaTro\\QuanLiNhaTro.csproj|d:\\nam2\\hk1-nam2\\doanck (1)\\quanlinhatro\\quanlinhatro\\dulieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E87D200-9849-42C3-B847-F03D036CDB3A}|QuanLiNhaTro\\QuanLiNhaTro.csproj|solutionrelative:quanlinhatro\\dulieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E87D200-9849-42C3-B847-F03D036CDB3A}|QuanLiNhaTro\\QuanLiNhaTro.csproj|d:\\nam2\\hk1-nam2\\doanck (1)\\quanlinhatro\\quanlinhatro\\tienich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E87D200-9849-42C3-B847-F03D036CDB3A}|QuanLiNhaTro\\QuanLiNhaTro.csproj|solutionrelative:quanlinhatro\\tienich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E87D200-9849-42C3-B847-F03D036CDB3A}|QuanLiNhaTro\\QuanLiNhaTro.csproj|d:\\nam2\\hk1-nam2\\doanck (1)\\quanlinhatro\\quanlinhatro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E87D200-9849-42C3-B847-F03D036CDB3A}|QuanLiNhaTro\\QuanLiNhaTro.csproj|solutionrelative:quanlinhatro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E87D200-9849-42C3-B847-F03D036CDB3A}|QuanLiNhaTro\\QuanLiNhaTro.csproj|d:\\nam2\\hk1-nam2\\doanck (1)\\quanlinhatro\\quanlinhatro\\phongcaocap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E87D200-9849-42C3-B847-F03D036CDB3A}|QuanLiNhaTro\\QuanLiNhaTro.csproj|solutionrelative:quanlinhatro\\phongcaocap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E87D200-9849-42C3-B847-F03D036CDB3A}|QuanLiNhaTro\\QuanLiNhaTro.csproj|d:\\nam2\\hk1-nam2\\doanck (1)\\quanlinhatro\\quanlinhatro\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E87D200-9849-42C3-B847-F03D036CDB3A}|QuanLiNhaTro\\QuanLiNhaTro.csproj|solutionrelative:quanlinhatro\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E87D200-9849-42C3-B847-F03D036CDB3A}|QuanLiNhaTro\\QuanLiNhaTro.csproj|d:\\nam2\\hk1-nam2\\doanck (1)\\quanlinhatro\\quanlinhatro\\phongtrungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E87D200-9849-42C3-B847-F03D036CDB3A}|QuanLiNhaTro\\QuanLiNhaTro.csproj|solutionrelative:quanlinhatro\\phongtrungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E87D200-9849-42C3-B847-F03D036CDB3A}|QuanLiNhaTro\\QuanLiNhaTro.csproj|d:\\nam2\\hk1-nam2\\doanck (1)\\quanlinhatro\\quanlinhatro\\phongtro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E87D200-9849-42C3-B847-F03D036CDB3A}|QuanLiNhaTro\\QuanLiNhaTro.csproj|solutionrelative:quanlinhatro\\phongtro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E87D200-9849-42C3-B847-F03D036CDB3A}|QuanLiNhaTro\\QuanLiNhaTro.csproj|d:\\nam2\\hk1-nam2\\doanck (1)\\quanlinhatro\\quanlinhatro\\phongsocap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E87D200-9849-42C3-B847-F03D036CDB3A}|QuanLiNhaTro\\QuanLiNhaTro.csproj|solutionrelative:quanlinhatro\\phongsocap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E87D200-9849-42C3-B847-F03D036CDB3A}|QuanLiNhaTro\\QuanLiNhaTro.csproj|d:\\nam2\\hk1-nam2\\doanck (1)\\quanlinhatro\\quanlinhatro\\connguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E87D200-9849-42C3-B847-F03D036CDB3A}|QuanLiNhaTro\\QuanLiNhaTro.csproj|solutionrelative:quanlinhatro\\connguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E87D200-9849-42C3-B847-F03D036CDB3A}|QuanLiNhaTro\\QuanLiNhaTro.csproj|d:\\nam2\\hk1-nam2\\doanck (1)\\quanlinhatro\\quanlinhatro\\nguoichothue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E87D200-9849-42C3-B847-F03D036CDB3A}|QuanLiNhaTro\\QuanLiNhaTro.csproj|solutionrelative:quanlinhatro\\nguoichothue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E87D200-9849-42C3-B847-F03D036CDB3A}|QuanLiNhaTro\\QuanLiNhaTro.csproj|d:\\nam2\\hk1-nam2\\doanck (1)\\quanlinhatro\\quanlinhatro\\nguoithue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E87D200-9849-42C3-B847-F03D036CDB3A}|QuanLiNhaTro\\QuanLiNhaTro.csproj|solutionrelative:quanlinhatro\\nguoithue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E87D200-9849-42C3-B847-F03D036CDB3A}|QuanLiNhaTro\\QuanLiNhaTro.csproj|d:\\nam2\\hk1-nam2\\doanck (1)\\quanlinhatro\\quanlinhatro\\hopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E87D200-9849-42C3-B847-F03D036CDB3A}|QuanLiNhaTro\\QuanLiNhaTro.csproj|solutionrelative:quanlinhatro\\hopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E87D200-9849-42C3-B847-F03D036CDB3A}|QuanLiNhaTro\\QuanLiNhaTro.csproj|d:\\nam2\\hk1-nam2\\doanck (1)\\quanlinhatro\\quanlinhatro\\dodac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E87D200-9849-42C3-B847-F03D036CDB3A}|QuanLiNhaTro\\QuanLiNhaTro.csproj|solutionrelative:quanlinhatro\\dodac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\QuanLiNhaTro\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLiNhaTro\\Program.cs",
+              "ToolTip": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\QuanLiNhaTro\\Program.cs",
+              "RelativeToolTip": "QuanLiNhaTro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:58:04.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhongCaoCap.cs",
+              "DocumentMoniker": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\QuanLiNhaTro\\PhongCaoCap.cs",
+              "RelativeDocumentMoniker": "QuanLiNhaTro\\PhongCaoCap.cs",
+              "ToolTip": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\QuanLiNhaTro\\PhongCaoCap.cs",
+              "RelativeToolTip": "QuanLiNhaTro\\PhongCaoCap.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAjwBwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:57:24.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TienIch.cs",
+              "DocumentMoniker": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\QuanLiNhaTro\\TienIch.cs",
+              "RelativeDocumentMoniker": "QuanLiNhaTro\\TienIch.cs",
+              "ToolTip": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\QuanLiNhaTro\\TienIch.cs",
+              "RelativeToolTip": "QuanLiNhaTro\\TienIch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:57:24.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DuLieu.cs",
+              "DocumentMoniker": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\QuanLiNhaTro\\DuLieu.cs",
+              "RelativeDocumentMoniker": "QuanLiNhaTro\\DuLieu.cs",
+              "ToolTip": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\QuanLiNhaTro\\DuLieu.cs",
+              "RelativeToolTip": "QuanLiNhaTro\\DuLieu.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:57:24.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\QuanLiNhaTro\\Menu.cs",
+              "RelativeDocumentMoniker": "QuanLiNhaTro\\Menu.cs",
+              "ToolTip": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\QuanLiNhaTro\\Menu.cs",
+              "RelativeToolTip": "QuanLiNhaTro\\Menu.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwBUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:57:24.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhongTrungCap.cs",
+              "DocumentMoniker": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\QuanLiNhaTro\\PhongTrungCap.cs",
+              "RelativeDocumentMoniker": "QuanLiNhaTro\\PhongTrungCap.cs",
+              "ToolTip": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\QuanLiNhaTro\\PhongTrungCap.cs",
+              "RelativeToolTip": "QuanLiNhaTro\\PhongTrungCap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:57:24.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhongTro.cs",
+              "DocumentMoniker": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\QuanLiNhaTro\\PhongTro.cs",
+              "RelativeDocumentMoniker": "QuanLiNhaTro\\PhongTro.cs",
+              "ToolTip": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\QuanLiNhaTro\\PhongTro.cs",
+              "RelativeToolTip": "QuanLiNhaTro\\PhongTro.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:57:24.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PhongSoCap.cs",
+              "DocumentMoniker": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\QuanLiNhaTro\\PhongSoCap.cs",
+              "RelativeDocumentMoniker": "QuanLiNhaTro\\PhongSoCap.cs",
+              "ToolTip": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\QuanLiNhaTro\\PhongSoCap.cs",
+              "RelativeToolTip": "QuanLiNhaTro\\PhongSoCap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:57:24.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConNguoi.cs",
+              "DocumentMoniker": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\QuanLiNhaTro\\ConNguoi.cs",
+              "RelativeDocumentMoniker": "QuanLiNhaTro\\ConNguoi.cs",
+              "ToolTip": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\QuanLiNhaTro\\ConNguoi.cs",
+              "RelativeToolTip": "QuanLiNhaTro\\ConNguoi.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:57:24.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NguoiChoThue.cs",
+              "DocumentMoniker": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\QuanLiNhaTro\\NguoiChoThue.cs",
+              "RelativeDocumentMoniker": "QuanLiNhaTro\\NguoiChoThue.cs",
+              "ToolTip": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\QuanLiNhaTro\\NguoiChoThue.cs",
+              "RelativeToolTip": "QuanLiNhaTro\\NguoiChoThue.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:57:24.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NguoiThue.cs",
+              "DocumentMoniker": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\QuanLiNhaTro\\NguoiThue.cs",
+              "RelativeDocumentMoniker": "QuanLiNhaTro\\NguoiThue.cs",
+              "ToolTip": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\QuanLiNhaTro\\NguoiThue.cs",
+              "RelativeToolTip": "QuanLiNhaTro\\NguoiThue.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:57:24.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HopDong.cs",
+              "DocumentMoniker": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\QuanLiNhaTro\\HopDong.cs",
+              "RelativeDocumentMoniker": "QuanLiNhaTro\\HopDong.cs",
+              "ToolTip": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\QuanLiNhaTro\\HopDong.cs",
+              "RelativeToolTip": "QuanLiNhaTro\\HopDong.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAkwDkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:57:24.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoDac.cs",
+              "DocumentMoniker": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\QuanLiNhaTro\\DoDac.cs",
+              "RelativeDocumentMoniker": "QuanLiNhaTro\\DoDac.cs",
+              "ToolTip": "D:\\NAM2\\HK1-NAM2\\DoAnCK (1)\\QuanLiNhaTro\\QuanLiNhaTro\\DoDac.cs",
+              "RelativeToolTip": "QuanLiNhaTro\\DoDac.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:57:24.543Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

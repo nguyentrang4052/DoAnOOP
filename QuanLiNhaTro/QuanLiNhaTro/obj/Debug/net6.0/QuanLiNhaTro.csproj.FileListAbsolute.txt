@@ -1,0 +1,115 @@
+D:\OOP\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.exe
+D:\OOP\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.deps.json
+D:\OOP\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.runtimeconfig.json
+D:\OOP\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.dll
+D:\OOP\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.pdb
+D:\OOP\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.AssemblyInfoInputs.cache
+D:\OOP\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.AssemblyInfo.cs
+D:\OOP\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.csproj.CoreCompileInputs.cache
+D:\OOP\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.dll
+D:\OOP\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\refint\QuanLiNhaTro.dll
+D:\OOP\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.pdb
+D:\OOP\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.genruntimeconfig.cache
+D:\OOP\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\ref\QuanLiNhaTro.dll
+E:\HocDH\Ki3\LapTrinhHuongDoiTuong\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.exe
+E:\HocDH\Ki3\LapTrinhHuongDoiTuong\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.deps.json
+E:\HocDH\Ki3\LapTrinhHuongDoiTuong\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.runtimeconfig.json
+E:\HocDH\Ki3\LapTrinhHuongDoiTuong\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.dll
+E:\HocDH\Ki3\LapTrinhHuongDoiTuong\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.pdb
+E:\HocDH\Ki3\LapTrinhHuongDoiTuong\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.csproj.AssemblyReference.cache
+E:\HocDH\Ki3\LapTrinhHuongDoiTuong\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocDH\Ki3\LapTrinhHuongDoiTuong\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.AssemblyInfoInputs.cache
+E:\HocDH\Ki3\LapTrinhHuongDoiTuong\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.AssemblyInfo.cs
+E:\HocDH\Ki3\LapTrinhHuongDoiTuong\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.csproj.CoreCompileInputs.cache
+E:\HocDH\Ki3\LapTrinhHuongDoiTuong\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.dll
+E:\HocDH\Ki3\LapTrinhHuongDoiTuong\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\refint\QuanLiNhaTro.dll
+E:\HocDH\Ki3\LapTrinhHuongDoiTuong\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.pdb
+E:\HocDH\Ki3\LapTrinhHuongDoiTuong\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.genruntimeconfig.cache
+E:\HocDH\Ki3\LapTrinhHuongDoiTuong\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\ref\QuanLiNhaTro.dll
+D:\OOP\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.AssemblyInfoInputs.cache
+D:\OOP\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.AssemblyInfo.cs
+D:\OOP\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.csproj.CoreCompileInputs.cache
+D:\OOP\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.dll
+D:\OOP\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\refint\QuanLiNhaTro.dll
+D:\OOP\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.pdb
+D:\OOP\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.exe
+D:\OOP\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.deps.json
+D:\OOP\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.runtimeconfig.json
+D:\OOP\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.dll
+D:\OOP\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.pdb
+D:\OOP\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.genruntimeconfig.cache
+D:\OOP\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\ref\QuanLiNhaTro.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.exe
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.deps.json
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.pdb
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\refint\QuanLiNhaTro.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.pdb
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\ref\QuanLiNhaTro.dll
+D:\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.exe
+D:\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.deps.json
+D:\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.runtimeconfig.json
+D:\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.dll
+D:\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.pdb
+D:\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.AssemblyInfoInputs.cache
+D:\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.AssemblyInfo.cs
+D:\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.csproj.CoreCompileInputs.cache
+D:\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.dll
+D:\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\refint\QuanLiNhaTro.dll
+D:\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.pdb
+D:\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.genruntimeconfig.cache
+D:\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\ref\QuanLiNhaTro.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.exe
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.deps.json
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.pdb
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\refint\QuanLiNhaTro.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.pdb
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Desktop\DoAnCK\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\ref\QuanLiNhaTro.dll
+D:\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.exe
+D:\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.deps.json
+D:\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.runtimeconfig.json
+D:\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.dll
+D:\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.pdb
+D:\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.AssemblyInfoInputs.cache
+D:\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.AssemblyInfo.cs
+D:\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.csproj.CoreCompileInputs.cache
+D:\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.dll
+D:\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\refint\QuanLiNhaTro.dll
+D:\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.pdb
+D:\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.genruntimeconfig.cache
+D:\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\ref\QuanLiNhaTro.dll
+D:\NAM2\HK1-NAM2\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.exe
+D:\NAM2\HK1-NAM2\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.deps.json
+D:\NAM2\HK1-NAM2\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.runtimeconfig.json
+D:\NAM2\HK1-NAM2\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.dll
+D:\NAM2\HK1-NAM2\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\net6.0\QuanLiNhaTro.pdb
+D:\NAM2\HK1-NAM2\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAM2\HK1-NAM2\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.AssemblyInfoInputs.cache
+D:\NAM2\HK1-NAM2\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.AssemblyInfo.cs
+D:\NAM2\HK1-NAM2\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.csproj.CoreCompileInputs.cache
+D:\NAM2\HK1-NAM2\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.dll
+D:\NAM2\HK1-NAM2\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\refint\QuanLiNhaTro.dll
+D:\NAM2\HK1-NAM2\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.pdb
+D:\NAM2\HK1-NAM2\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\QuanLiNhaTro.genruntimeconfig.cache
+D:\NAM2\HK1-NAM2\DoAnCK (1)\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\net6.0\ref\QuanLiNhaTro.dll
